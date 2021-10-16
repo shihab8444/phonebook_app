@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">phonebook_app</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="_8942">⋮</string>
+    <string name="email">Enter Your Email</string>
+    <string name="LPassword">password</string>
+    <string name="login">Login</string>
+    <string name="lregister">Register</string>
+</resources>
